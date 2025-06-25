@@ -1,3 +1,2 @@
-start at 2025/6/24 DS-100-sp25
-to cover data science.
+https://ds100.org/sp25/
 
